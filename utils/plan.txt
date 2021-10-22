@@ -1,0 +1,5 @@
+web result=================
+title, link, display_link, snippet, formatted_url
+
+image result===============
+image_url, thumbnail_url
