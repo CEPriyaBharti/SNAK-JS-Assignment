@@ -1,6 +1,0 @@
-<script async src="https://cse.google.com/cse.js?cx=03da428ef5aa40128"></script>
-<div class="gcse-search"></div>
-
-
-custom search api
-AIzaSyD9LnX_oYjrY8lTD0qI_M5fWR1qlkbTpSE
