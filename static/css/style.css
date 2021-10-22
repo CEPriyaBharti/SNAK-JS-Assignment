@@ -45,7 +45,7 @@ body{
 }
 
 .image_result_container{
-    width: 48%;
+    width: 66%;
     background: #fff;
     border-radius: 8px;
     border:none;
@@ -59,7 +59,7 @@ body{
 }
 
 .web_result_container{
-    width: 48%;
+    width: 32%;
     background: #fff;
     border-radius: 8px;
     border:none;
